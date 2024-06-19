@@ -10,8 +10,8 @@ This web application facilitates remote coding sessions between mentors and stud
 
 2.**Code Block Page:**
 
--Accessed by both mentors and students (two different clients).
--Mentor view: Displays the selected code block in read-only mode.
--Student view: Allows the student to modify the code.
--Real-time code changes via Socket communication.
--Syntax highlighting using CodeMirror.
+   - Accessed by both mentors and students (two different clients).
+   - Mentor view: Displays the selected code block in read-only mode.
+   - Student view: Allows the student to modify the code.
+   - Real-time code changes via Socket communication.
+   - Syntax highlighting using CodeMirror.
