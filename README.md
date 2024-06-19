@@ -6,7 +6,6 @@ This web application facilitates remote coding sessions between mentors and stud
 1.**Lobby Page:**
 
 -Displays a title "Choose code block" and a list of code blocks.
-
 -Each code block represents a coding exercise.
 -Clicking on a code block directs the user to the respective code block page with details.
 
